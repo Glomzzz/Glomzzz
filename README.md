@@ -2,7 +2,7 @@ Hi there 👋, I'm Glom_
 Senior High Student  
 
 ```kotlin
-val lang = arrayOf("kotlin", "java", "cpp", "php")
+val lang = arrayOf("kotlin", "java", "cpp", "php","rust")
 ```
 
 Email: glom@skillw.com  
