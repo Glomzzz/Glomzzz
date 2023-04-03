@@ -5,10 +5,10 @@ Senior High Student
 val lang = arrayOf("kotlin", "java", "cpp", "php","rust")
 ```
 
-Email: glom@skillw.com  or  88595433@qq.com
-Blog: blog.skillw.com
-Projects JavaDoc: doc.skillw.com
+Email: glom@skillw.com  or  88595433@qq.com  
+Blog: blog.skillw.com  
+Projects JavaDoc: doc.skillw.com  
 
-![stat](https://github-readme-stats.vercel.app/api?username=glom-c&theme=dracula)
+![stat](https://github-readme-stats.vercel.app/api?username=glom-c&theme=dracula)  
 
 <!-- Request ID=23032023/11487720 -->
