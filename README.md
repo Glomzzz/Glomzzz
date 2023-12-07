@@ -6,7 +6,7 @@ val lang = arrayOf("kotlin", "java", "cpp", "php","rust")
 ```
 
 Email: glom@skillw.com  or  88595433@qq.com  
-Blog: blog.skillw.com  
+Blog: www.skillw.com  
 Projects JavaDoc: doc.skillw.com  
 
 ![stat](https://github-readme-stats.vercel.app/api?username=glom-c&theme=dracula)  
