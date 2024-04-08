@@ -28,8 +28,9 @@
 ##### This is the choice of Steins Gate.
 
 > The universe has a beginning, but no end. — Infinite.
-> The stars too have beginnings, but their power accompanies their decline.  — Finite.
-> It the wise who are the most foolish. History has taught us as much.
+> The stars too have beginnings, but their power accompanies their decline.  — Finite.  
+> It the wise who are the most foolish.
+> History has taught us as much.
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Glom-c&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" target="_blank">
     <img align="right" width="40%" alt="Glom-c's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Glom-c&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
