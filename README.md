@@ -4,7 +4,7 @@
     <img align="right" width="40%" alt="Glom-c's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=Glom-c&show_icons=true&theme=radical"/>
 </a>
 
-- ⚒️ Rust, C/C++, Kotlin, Scala
+- ⚒️ Rust, C/C++, Kotlin, Scala | TypeScript, Vue
 - 💻 Windows 11, EndeavourOS
 - ⚛ Windows, Linux, Android/IOS, ESP32, STM32
 - 🎮 Minecraft, Turing Complete, APEX, R6
@@ -41,7 +41,7 @@
 
 ![](https://img.shields.io/badge/IntelliJ%20IDEA-EA3C6B.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white) ![](https://img.shields.io/badge/Visual%20Studio%20Code-E2660C.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=1C94EB) ![](https://img.shields.io/badge/Neovim-A85EBC.svg?style=for-the-badge&logo=Neovim&logoColor=57A143)
 
-![](https://img.shields.io/badge/Rust-FFC832.svg?style=for-the-badge&logo=Rust&logoColor=black) ![](https://img.shields.io/badge/C/C++-FFF663.svg?style=for-the-badge&logo=CPlusPlus&logoColor=00599C) ![](https://img.shields.io/badge/Kotlin-6FAF00.svg?style=for-the-badge&logo=Kotlin&logoColor=7F52FF) ![](https://img.shields.io/badge/Scala-2366D0.svg?style=for-the-badge&logo=Scala&logoColor=DC322F)
+![](https://img.shields.io/badge/Rust-FFC832.svg?style=for-the-badge&logo=Rust&logoColor=black) ![](https://img.shields.io/badge/C/C++-FFF663.svg?style=for-the-badge&logo=CPlusPlus&logoColor=00599C) ![](https://img.shields.io/badge/Kotlin-6FAF00.svg?style=for-the-badge&logo=Kotlin&logoColor=7F52FF) ![](https://img.shields.io/badge/Scala-2366D0.svg?style=for-the-badge&logo=Scala&logoColor=DC322F) ![](https://img.shields.io/badge/TypeScript-CE8739.svg?style=for-the-badge&logo=typescript&logoColor=3178C6) ![](https://img.shields.io/badge/Vue-B03F72.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ![](https://img.shields.io/badge/ROG-CFCFCF.svg?style=for-the-badge&logo=republicofgamers&logoColor=FF0029) ![](https://img.shields.io/badge/Espressif-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
