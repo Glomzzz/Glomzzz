@@ -10,7 +10,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Glomzzz&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Glomzzz&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Glomzzz&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
   </picture>
 </a>
 
@@ -24,7 +24,7 @@
       srcset="https://github-readme-streak-stats.herokuapp.com?user=Glomzzz&theme=transparent&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Glomzzz&theme=transparent&hide_border=true" />
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=Glomzzz&theme=transparent&hide_border=true" />
   </picture>
 </a>
 
