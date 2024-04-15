@@ -51,11 +51,12 @@
 
 - ⚡ Fun fact **I like ACGN.**
 
+### Languages & Frameworks I use
+
 <a href="https://github-profile-trophy.vercel.app/?username=Glomzzz&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=tr" target="_blank">
     <img align="right" alt="Glomzzz's GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=Glomzzz&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 </a>
 
-### Languages & Frameworks I use
 
 [![Langs back](https://skillicons.dev/icons?i=java,kotlin,scala,rust,go,python)](https://skillicons.dev)
 
@@ -67,16 +68,15 @@
 
 
 ### Stacks I work with
+
 [![OS](https://skillicons.dev/icons?i=linux,arch,windows,ubuntu)](https://skillicons.dev)
-
-
-[![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)](https://skillicons.dev)
-
-
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kzengpgqdn4n7os3anza5b5r7q&redirect=true" target="_blank">
     <img align="right" alt="Glomzzz's GitHub Streak" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kzengpgqdn4n7os3anza5b5r7q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f"/>
 </a>
+
+[![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)](https://skillicons.dev)
+
 
 [![stacks](https://skillicons.dev/icons?i=anaconda,gradle,maven,cmake,nodejs,githubactions)](https://skillicons.dev)
 
