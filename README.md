@@ -3,14 +3,14 @@
 <a href="#stats" align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Glomzzz&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=Glomzzz&count_private=true&show_icons=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Glomzzz&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=Glomzzz&count_private=true&show_icons=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Glomzzz&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Glomzzz&count_private=true&show_icons=true&show_owner=true&hide_border=true&theme=transparent" />
   </picture>
 </a>
 
@@ -30,7 +30,7 @@
 
 </br>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Glomzzz&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent&hide_border=true" target="_blank">
+<a href="#stats" target="_blank">
     <img align="right" alt="Glomzzz's Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glomzzz&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent&hide_border=true&hide=html,css"/>
 </a>
 
@@ -71,12 +71,12 @@
 
 [![OS](https://skillicons.dev/icons?i=linux,arch,windows,ubuntu)](https://skillicons.dev)
 
+[![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)](https://skillicons.dev)
+
+
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kzengpgqdn4n7os3anza5b5r7q&redirect=true" target="_blank">
     <img align="right" alt="Glomzzz's GitHub Streak" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kzengpgqdn4n7os3anza5b5r7q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f"/>
 </a>
-
-[![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)](https://skillicons.dev)
-
 
 [![stacks](https://skillicons.dev/icons?i=anaconda,gradle,maven,cmake,nodejs,githubactions)](https://skillicons.dev)
 
@@ -84,11 +84,11 @@
 
 ### IDE & Tools I like
 
+[![IDE](https://skillicons.dev/icons?i=idea,pycharm,vscode,neovim)](https://skillicons.dev)
+
 <a href="https://count.getloli.com/get/@Glomzzz?theme=rule34" target="_blank">
     <img align="right" alt="Glomzzz's getloli" src="https://count.getloli.com/get/@Glomzzz?theme=rule34"/>
 </a>
-
-[![IDE](https://skillicons.dev/icons?i=idea,pycharm,vscode,neovim)](https://skillicons.dev)
 
 [![Tools 1](https://skillicons.dev/icons?i=ae,au,ps,pr)](https://skillicons.dev)
 
