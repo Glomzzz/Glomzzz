@@ -75,7 +75,7 @@
 
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kzengpgqdn4n7os3anza5b5r7q&redirect=true" target="_blank">
-    <img align="right" alt="Glomzzz's GitHub Streak" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kzengpgqdn4n7os3anza5b5r7q&interchange=true&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f"/>
+      <img align="right" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=31kzengpgqdn4n7os3anza5b5r7q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 </a>
 
 [![stacks](https://skillicons.dev/icons?i=anaconda,gradle,maven,cmake,nodejs,githubactions)](https://skillicons.dev)
