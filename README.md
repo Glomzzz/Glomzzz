@@ -43,7 +43,7 @@
 
 - 🤝 I’m the leader of [Skillw](https://github.com/Skillw)
 
-- 📝 I regularly write articles on [https://glom.skillw.com](https://glom.skillw.com) （施工中）
+- 📝 I regularly write articles on [https://glom.skillw.com](https://glom.skillw.com)
 
 - 📫 How to reach me **glom@skilw.com**
 
