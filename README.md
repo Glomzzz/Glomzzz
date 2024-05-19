@@ -1,4 +1,4 @@
-### 👏 Hey there! Welcome and here is Glom!
+### 👏 Hey there! Welcome and here is Glomzzz!
 
 <a href="#stats" align="center">
   <picture>
