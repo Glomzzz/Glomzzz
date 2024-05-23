@@ -47,8 +47,6 @@
 
 - 📫 How to reach me **glom@skilw.com**
 
-- 📄 Know about my experiences [glom.skillw.com/experiences](glom.skillw.com/experiences)
-
 - ⚡ Fun fact **I like ACGN.**
 
 ### Languages & Frameworks I use
