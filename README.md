@@ -37,7 +37,7 @@
 <!-- ❓ Here you can see what I'm doing: glom.skillw.com -->
 
 
-- 🔭 I’m currently working on [Librorum](https://github.com/Glomzzz/Librorum)
+- 🔭 I’m currently working on [Librorum](https://github.com/Skillw/Librorum)
 
 - 🌱 I’m currently learning **PL theory**
 
