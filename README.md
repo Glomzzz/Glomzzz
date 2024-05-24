@@ -51,6 +51,10 @@
 
 ### Languages & Frameworks I use
 
+</br>
+</br>
+
+
 <a href="https://github-profile-trophy.vercel.app/?username=Glomzzz&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=tr" target="_blank">
     <img align="right" alt="Glomzzz's GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=Glomzzz&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 </a>
