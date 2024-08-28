@@ -30,78 +30,28 @@
 
 </br>
 
-<a href="#stats" target="_blank">
-    <img align="right" alt="Glomzzz's Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glomzzz&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent&hide_border=true&hide=html,css"/>
-</a>
 
-<!-- ❓ Here you can see what I'm doing: glom.skillw.com -->
-
-
-- 🔭 I’m currently working on [Librorum](https://github.com/Skillw/Librorum)
-
-- 🌱 I’m currently learning **PL theory**
-
-- 🤝 I’m the leader of [Skillw](https://github.com/Skillw)
-
-- 📝 I regularly write articles on [https://glomzzz.com/](https://glomzzz.com/) (coming back)
-
-- 📫 How to reach me **glom@skilw.com**
-
-- ⚡ Fun fact **I like ACGN.**
-
-### Languages & Frameworks I use
-
-</br>
-</br>
-
-
-<a href="https://github-profile-trophy.vercel.app/?username=Glomzzz&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=tr" target="_blank">
-    <img align="right" alt="Glomzzz's GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=Glomzzz&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-</a>
-
-
-[![Langs back](https://skillicons.dev/icons?i=java,kotlin,scala,rust,go,python)](https://skillicons.dev)
-
-[![Langs front](https://skillicons.dev/icons?i=ts,js,php,vue,react,wasm)](https://skillicons.dev)
-
-[![Frameworks](https://skillicons.dev/icons?i=pytorch,arduino,actix,rocket,tauri)](https://skillicons.dev)
-
-[![CG](https://skillicons.dev/icons?i=bevy,unity,unreal,godot)](https://skillicons.dev)
-
-
-### Stacks I work with
-
-[![OS](https://skillicons.dev/icons?i=linux,arch,windows,ubuntu)](https://skillicons.dev)
-
-[![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)](https://skillicons.dev)
-
+- 🔭 I’m currently reading [Partial Evaluation Book](https://www.itu.dk/people/sestoft/pebook/)
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315bem4ocfpdp2qx74a5hqmd3ovm&redirect=true" target="_blank">
       <img align="right" alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=315bem4ocfpdp2qx74a5hqmd3ovm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f"/>
 </a>
 
-[![stacks](https://skillicons.dev/icons?i=anaconda,gradle,maven,cmake,nodejs,githubactions)](https://skillicons.dev)
 
+- 🌱 I’m currently learning **PL theory**
 
+- 🤝 I’m the leader of [Skillw](https://github.com/Skillw)
 
-### IDE & Tools I like
-
-[![IDE](https://skillicons.dev/icons?i=idea,pycharm,vscode,neovim)](https://skillicons.dev)
+- 📝 I regularly write articles on [https://glomzzz.com/](https://glomzzz.com/)
 
 <a href="https://count.getloli.com/get/@Glomzzz?theme=rule34" target="_blank">
     <img align="right" alt="Glomzzz's getloli" src="https://count.getloli.com/get/@Glomzzz?theme=rule34"/>
 </a>
 
-[![Tools 1](https://skillicons.dev/icons?i=ae,au,ps,pr)](https://skillicons.dev)
+- 📫 Reach me here **glom@skilw.com**
 
-[![Tools 2](https://skillicons.dev/icons?i=git,github,obsidian,webflow)](https://skillicons.dev)
+- 🙌 Let's have fun: [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/+-8Oa1pnQuVhhNDg1)
 
-
-### Other fun stuffs
-
-![](https://img.shields.io/badge/ROG-CFCFCF.svg?style=for-the-badge&logo=republicofgamers&logoColor=FF0029) ![](https://img.shields.io/badge/Espressif-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white) ![](https://img.shields.io/badge/Alacritty-0B92FE.svg?style=for-the-badge&logo=alacritty&logoColor=F46D01) ![](https://img.shields.io/badge/Copilot-white.svg?style=for-the-badge&logo=githubcopilot&logoColor=black) ![](https://img.shields.io/badge/Zotero-33D6C9.svg?style=for-the-badge&logo=Zotero&logoColor=CC2936) ![](https://img.shields.io/badge/Spotify-E246AB.svg?style=for-the-badge&logo=spotify&logoColor=1DB954)
-
-</br>
 
 
 
